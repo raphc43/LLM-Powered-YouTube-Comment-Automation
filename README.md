@@ -13,4 +13,5 @@ Generates a natural language reply.
 Posts the generated reply back to YouTube.
 
 After doing all the above it starts another instance where it accesses the next channel if it exists and performs the above actions again
-instance manage.py is responsible for handling the cycles
+
+'instance manage.py' is responsible for handling the cycles
