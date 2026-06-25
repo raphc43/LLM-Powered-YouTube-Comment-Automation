@@ -1,4 +1,4 @@
-LLM-Powered YouTube Comment Automation
+__LLM-Powered YouTube Comment Automation__
 Overview
 This project automates the process of responding to YouTube comments using OpenAI's GPT models. It combines Python, Selenium browser automation, and LLM-powered natural language generation to retrieve comments, generate context-aware responses, and publish replies across multiple YouTube channels.
 
